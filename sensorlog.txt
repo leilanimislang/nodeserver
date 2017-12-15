@@ -1,0 +1,7 @@
+{
+"temperature" : "34",
+"humidity" : "50",
+"wind_speed" : "20",
+"time" : "10:20",
+"location" : "boulder"
+}
